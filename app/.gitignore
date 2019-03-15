@@ -1,1 +1,13 @@
+*.iml
+.gradle
+*.jks
+*.apk
+*.aab
+google-services.json
+google_maps_api.xml
+/local.properties
+.idea
+.DS_Store
 /build
+/captures
+.externalNativeBuild
